@@ -1,0 +1,22 @@
+lista partecipanti [io,nonna,zioRino,Emy,Lucia,nonnoCarlo]
+
+lista coppia di posti[ [coppia1], [coppa2], [coppia3] ]
+
+1 preparare la tavola
+
+2 contare i posti a coppie
+    Prepara un posto a tavola per ogni ospite.
+   2.1 controlla coppia, Conta i posti a tavola di 2 in 2. 
+        controlla coppia1 se = 2 controlla coppia successiva
+    2.3 se valore totale delle coppie è = 6 
+            (fine)      
+       
+    Altrimenti  
+    Se il numero totale di posti a tavola è dispari  
+   2.2 se coppia ha valore = 1 aggiungi 1
+            (domanda se siamo tutti, se la risposta è no, ripeti il numero n2)  
+
+     
+                 
+
+    
